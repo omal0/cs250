@@ -1,1 +1,0 @@
-# vscode-mars-extension
